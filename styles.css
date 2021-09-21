@@ -21,8 +21,8 @@ body {
   background-color: rgb(20, 20, 20);
   border: 3px solid #eee;
   border-radius: 0.5rem;
-  height: 35rem;
-  width: 18rem;
+  height: 40rem;
+  width: 20rem;
 }
 
 .phone::before {
